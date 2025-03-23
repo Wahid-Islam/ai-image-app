@@ -9,10 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.4.8",
+    "@mui/material": "^6.4.8",
     "@tensorflow-models/coco-ssd": "^2.2.3",
     "@tensorflow-models/mobilenet": "^2.1.1",
     "@tensorflow/tfjs": "^4.22.0",
+    "multer": "^1.4.5-lts.2",
     "next": "15.2.3",
+    "next-connect": "^1.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
